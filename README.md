@@ -9,5 +9,5 @@ Common repo where release versions of all controls will be places for distributi
 * [Header](https://github.com/degnome/Header "Header")
 * [MultiSelect-DropDown](https://github.com/degnome/MultiSelect-DropDown "MultiSelect-DropDown")
 * [SpinnerControl](https://github.com/degnome/SpinnerControl "SpinnerControl")
-* [TimeCode](https://github.com/degnome/TimeCode "TimeCode") [Demo](http://degnome.github.com/TimeCode/index.html)
+* [TimeCode](https://github.com/degnome/TimeCode "TimeCode") - [Demo](http://degnome.github.com/TimeCode/index.html)
 
